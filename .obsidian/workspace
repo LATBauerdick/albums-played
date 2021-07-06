@@ -1,0 +1,131 @@
+{
+  "main": {
+    "id": "571f083cee5481e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "6408e3cad3258530",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "210626-The Horn Club Of Los Angeles – Music Fo.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "497527ef2456107f",
+    "type": "split",
+    "children": [
+      {
+        "id": "23635b8ac50bfcf8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b4ad6f2b72b0d15",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "87ceb877b18d1430",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e06c002d9714e6ae",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "eda10449e842e408",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa3b98685e47352e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8bec9128855c43d6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "210626-The Horn Club Of Los Angeles – Music Fo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "50319897555ce9dd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "935928c416dbca22",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "210626-The Horn Club Of Los Angeles – Music Fo.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6408e3cad3258530",
+  "lastOpenFiles": [
+    "210626-The Horn Club Of Los Angeles – Music Fo.md",
+    "210627-Wagner_ Die Götterdämmerung – Flagstad, .md",
+    "210629-Vladimir Horowitz – The Horowitz Concert.md",
+    "210701-Schubert_ Quartet No. 13 In A Minor _ Q.md",
+    "210701-The Daemonic Liszt – Earl Wild.md",
+    "210704-Heroic Music For Organ, Brass & Percussi.md",
+    "210705-Black Midi – Cavalcade.md",
+    "210705-Henze_ 5 Symphonien – Berliner Philharmo.md",
+    "210705-Matthew E. White & Lonnie Holley – Brok.md",
+    "210703-Bernstein_ Symphony No.1 »Jeremiah« • Ch.md"
+  ]
+}
