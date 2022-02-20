@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "06ef6e6772d20814",
+    "type": "split",
+    "children": [
+      {
+        "id": "3eb8c7babd6fea8e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "210717-Deftones – White Pony.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f6dc3aadc3c9a9bb",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "4cac84bc27cfec3d",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "1d1512b452a1d37c",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0,
+    "pinned": true
+  },
+  "right": {
+    "id": "3db4b731e02ce6fe",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "13df10028219b8d8",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "210717-Deftones – White Pony.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "c37bb66e301dd817",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "3eb8c7babd6fea8e",
+  "lastOpenFiles": [
+    "210717-Deftones – White Pony.md",
+    "210717-André Lardrot, Felix Prohaska, Orchester Der Wiener Staatsoper – The Virtuoso Oboe.md",
+    "210716-Verdi, Maria Caniglia, Ebe Stignani, Beniamino Gigli, Coro Del Teatro Dell'Opera Di Roma, Orchestra Del Teatro Dell'Opera Di Roma, Tullio Serafin – Requiem.md",
+    "210714-Lise Boucher – Mozart_ Variations For Piano.md",
+    "210714-Franz Schubert, Alfred Brendel – Sonata In A Minor, D.784 · “Moments Musicaux”.md",
+    "210717-King Crimson – In The Court Of The Crimson King (An Observation By King Crimson).md",
+    "210717-Mozart_ Klarinettenkonzert KV 622 • Fagottkonzert KV 191 – Alfred Prinz, Dietmar Zeman, Wiener Philharmoniker, Karl Böhm.md",
+    "201219-Can - Ege Bamyasi.md",
+    "201230-Massive Attack – Mezzanine.md",
+    "210712-Rosalyn Tureck, Johann Sebastian Bach – The Well-Tempered Clavier Preludes & Fugues Nos. 9-16 From Book II.md"
+  ]
+}

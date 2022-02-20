@@ -3,6 +3,6 @@ date: 2021-05-28T21-04-59
 title: Perahia Plays Schumann – Symphonic Etudes / Posthumous Etudes / Papillons
 ---
 ### Perahia Plays Schumann – Symphonic Etudes / Posthumous Etudes / Papillons
-https://www.discogs.com/release/4219914
+[1]: https://www.discogs.com/release/4219914
 
-![](dayone-moment://6D784255CED743EEA6407D53D21A0C07)
+[![](https://img.discogs.com/m3IYnjssoGxrvMX8wJ6118xpkA8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4219914-1358887801-8847.jpeg.jpg)][1]

@@ -1,1 +1,5 @@
-{"spellcheck":true,"showFrontmatter":true,"useTab":false,"alwaysUpdateLinks":true,"showUnsupportedFiles":true,"attachmentFolderPath":"attachments","hotkeys":{"insert-template":[{"modifiers":["Mod"],"key":"T"}]},"fileSortOrder":"alphabeticalReverse"}
+{
+  "fileSortOrder": "alphabeticalReverse",
+  "legacyEditor": false,
+  "livePreview": true
+}
